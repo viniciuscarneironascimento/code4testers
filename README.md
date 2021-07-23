@@ -1,0 +1,1 @@
+Repositório estudo Ruby comandos básicos curso QA Ninja.
